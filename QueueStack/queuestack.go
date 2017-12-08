@@ -1,4 +1,4 @@
-package queuestack
+package QueueStack
 
 import (
 )
